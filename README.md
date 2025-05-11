@@ -1,3 +1,4 @@
+![logo](https://github.com/tanishq1414/tanishq1414/blob/main/Crafting%20innovation%20with%20code%20and%20creativity%20(3).png)
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
